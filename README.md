@@ -1,4 +1,4 @@
-# HookImportTable
+# Hook Import Table
 Detours an entry of the import table in memory
 
 # Example usage
